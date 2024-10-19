@@ -2,8 +2,8 @@
 
 **Name:** Devendra Bhardwaj  
 **Email:** bhardwaj.dev2011@gmail.com  
-**Phone:** +91 823307604  
-**WhatsApp:** +91 823307604
+**Phone:** +91 8233107604  
+**WhatsApp:** +91 8233107604
 
 Feel free to contact me for any development-related queries or collaborations.
 
